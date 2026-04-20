@@ -30,4 +30,5 @@ pip install -r requirements.txt
 3. Run each notebook step by step
 
 Purpose
+
 This project aims to demonstrate practical implementation of machine learning models for recommendation, classification, and clustering problems.
